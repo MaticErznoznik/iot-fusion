@@ -15,6 +15,8 @@ const streamingSmartLampNode = require('./nodes/streamingSmartLampNode.js');
 const streamingTrafficCounterNode = require('./nodes/streamingTrafficCounterNode.js');
 const streamingAirQualityNode = require('./nodes/streamingAirQualityNode.js');
 const streamingWeatherNode = require('./nodes/streamingWeatherNode.js');
+const streamingDebitmeterNode = require('./nodes/streamingDebitmeterNode.js');
+const streamingFlowerBedNode = require('./nodes/streamingFlowerBedNode.js');
 const streamingStaticNode = require('./nodes/streamingStaticNode.js');
 const staticCalculatedNode = require('./nodes/staticCalculatedNode.js');
 const IncrementalLearning = require ('./models/IncrementalLearning.js');
@@ -97,6 +99,10 @@ class streamFusion {
                 this.nodes.push(new staticCalculatedNode(this.base, this.connectionConfig, nodeConfig, aggrConfigs, self.processRecordHook, nodeI, self));
             } else if (nodeConfig["type"] == "weather") {
                 this.nodes.push(new streamingWeatherNode(this.base, this.connectionConfig, nodeConfig, aggrConfigs, self.processRecordHook, nodeI, self));
+            } else if (nodeConfig["type"] == "debitmeter") {
+                this.nodes.push(new streamingDebitmeterNode(this.base, this.connectionConfig, nodeConfig, aggrConfigs, self.processRecordHook, nodeI, self));
+            }  else if (nodeConfig["type"] == "flowerbed") {
+                this.nodes.push(new streamingFlowerBedNode(this.base, this.connectionConfig, nodeConfig, aggrConfigs, self.processRecordHook, nodeI, self));
             } else {
                 console.log("ERROR: Streaming node type not found!");
             }

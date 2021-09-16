@@ -31,7 +31,7 @@ class KafkaNodeBroker extends Broker {
         this.consumer = new this.Consumer(
             this.client,
             [ { topic: this.topic, partition: 0 }],
-            { groupId: this.id }
+            { groupId: this.clientid }
         );
 
         this.consumer.on('message', function (message) {
@@ -55,7 +55,7 @@ class KafkaNodeBroker extends Broker {
                 if (err) {
                     return console.error(err);
                 }
-                var min = Math.min(offsets[topic.topic][topic.partition]);
+                var min = Math.min(...offsets[topic.topic][topic.partition]);
                 console.log(self);
                 self.consumer.setOffset(topic.topic, topic.partition, min);
             });

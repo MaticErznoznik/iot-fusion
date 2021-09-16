@@ -52,6 +52,9 @@ class streamingTimeValueNode extends streamingNode {
     processRecord(rec) {
         // extract data
         let unixts = rec["time"] * 1000;
+        if (isNaN(unixts)) {
+            unixts = rec["timestamp"] * 1000;
+        }
         let value = (isNaN(rec["value"]) || rec["value"] == null) ? 0 : rec["value"];
 
         if (unixts <= this.lastTimestamp) {
