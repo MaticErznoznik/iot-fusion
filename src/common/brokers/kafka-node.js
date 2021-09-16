@@ -57,8 +57,11 @@ class KafkaNodeBroker extends Broker {
                 }
                 var min = Math.min(...offsets[topic.topic][topic.partition]);
                 console.log(self);
+                exit();
+                */
                 self.consumer.setOffset(topic.topic, topic.partition, min);
             });
+            console.log("offsetOutOfRange - end");
         });
     }
 
