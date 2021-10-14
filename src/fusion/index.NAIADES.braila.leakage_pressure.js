@@ -19,7 +19,7 @@ let smConf = {
         ]
     },
     "fusion": {
-        "fusionModel": "flow_24",
+        "fusionModel": "flow24",
         "connection": {
             "type": "kafka"
         },
@@ -113,76 +113,76 @@ let smConf = {
                 "master": false,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]}
 
                 ]
@@ -194,76 +194,76 @@ let smConf = {
                 "master": false,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]}
 
                 ]
@@ -275,76 +275,76 @@ let smConf = {
                 "master": false,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "analog_input1|ma|3600000" }
+                        { type: "value", "name": "analog_input1" }
                     ]}
 
                 ]
@@ -353,79 +353,79 @@ let smConf = {
                 "type": "timevalue",
                 "nodeid": "braila_pressure5770",
                 "aggrConfigId": "braila_pressure",
-                "master": false,
+                "master": true,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]}
 
                 ]
@@ -437,76 +437,76 @@ let smConf = {
                 "master": false,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]}
 
                 ]
@@ -518,76 +518,76 @@ let smConf = {
                 "master": false,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]}
 
                 ]
@@ -596,83 +596,82 @@ let smConf = {
                 "type": "timevalue",
                 "nodeid": "braila_pressure5773",
                 "aggrConfigId": "braila_pressure",
-                "master": true,
+                "master": false,
                 "attributes": [
                     { "time": 0, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -1, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -2, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -3, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -4, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -5, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -6, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -7, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -8, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -9, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -10, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -11, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -12, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -13, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -14, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -15, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -16, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -17, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -18, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -19, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -20, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -21, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -22, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]},
                     { "time": -23, "attributes": [
-                        { type: "value", "name": "value|ma|3600000" }
+                        { type: "value", "name": "value" }
                     ]}
-
-                ]
-            },
+                    ]
+            }
 
         ]
     }
@@ -681,10 +680,11 @@ let smConf = {
 // kafka connection config
 let connectionConfig = {
     kafka: "localhost:9092",
-}
+};
 
-connectionConfig.clientId = 'clientSubstation_' + Math.random().toString(16).substr(2, 8);
+//connectionConfig.clientId = 'clientSubstation_' + Math.random().toString(16).substr(2, 8);
 
 let fusion = [];
+const kafka = require('kafka-node');
 
 fusion.push( new StreamFusion(connectionConfig, smConf["fusion"], smConf["aggr"]) );

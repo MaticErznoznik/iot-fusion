@@ -155,7 +155,7 @@ class streamFusion {
             nodeI = self.masterNodeId;
         };
 
-        // console.log("Process record initiated.");
+        console.log("Process record initiated.");
         if (self.nodes[nodeI].isMaster() == true) {
             // try to build feature vector
             // set master offset
@@ -236,6 +236,10 @@ class streamFusion {
             featureVector = featureVector.concat(partialFeatureVector);
         }
         // return the feature vector
+        
+        console.log('FV created: ')
+        console.log(featureVector)
+        
         return featureVector;
     }
 
